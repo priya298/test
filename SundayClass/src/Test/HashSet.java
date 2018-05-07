@@ -13,6 +13,7 @@ public class HashSet {
 		map.put(20, 100);
 		map.put(30, 100);
 		map.put(4, 100);
+		map.put(10, 2000);
 		System.out.println(map);
 		}
 
