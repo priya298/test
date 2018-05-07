@@ -14,6 +14,7 @@ public class HashSet {
 		map.put(30, 100);
 		map.put(4, 100);
 		map.put(10, 2000);
+		map.put(3, 1);
 		System.out.println(map);
 		}
 
